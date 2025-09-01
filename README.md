@@ -16,7 +16,11 @@ I contributed to **Coda**, an AI-driven automotive system developed as the gradu
 
 ## 📊 GitHub Stats
 
-![AbdelrhmanAFayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAFayed&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAFayed&layout=compact&theme=radical)![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrhmanAFayed&theme=radical)\## 🛠️ Skills
+![AbdelrhmanAFayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAFayed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAFayed&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrhmanAFayed&theme=radical)\
+
+## 🛠️ Skills
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)\## 🔨 Featured Projects
 
