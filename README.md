@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer with a B.Sc. in Electrical Engi
 
 ## 🌟 Coda: A Digital Cockpit
 
-I contributed to **Coda**, an AI-driven automotive system developed as the graduation project for ITI's 9-Month Embedded Systems Track. Coda features a dual-screen interface, road sign detection with YOLOv8, a voice assistant, and ECUs built on NXP, Raspberry Pi, and Jetson Nano, using technologies like Qt6, vSOME/IP, and Yocto.
+I contributed to **Coda**, a multi-node automotive system developed as the graduation project for ITI's 9-Month Embedded Systems and Android Automotive Track. Coda features a dual-screen interface, road sign detection with YOLOv8, a voice assistant, and ECUs built on NXP, Raspberry Pi, and Jetson Nano, using technologies like Qt6, vSOME/IP, and Yocto.
 
 Check it out ![Here](https://github.com/Coda-ITI)!
 
