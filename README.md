@@ -1,6 +1,6 @@
 # Hey there, I'm AbdelrhmanAFayed! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF4500&size=20&lines=Welcome+to+my+GitHub+Profile!;Embedded+Developer+%7C+Mobile+App+Enthusiast)
+![Profile](https://img.shields.io/badge/AbdelrhmanAFayed-Embedded%20Developer%20%7C%20Mobile%20Apps-orange?style=flat-square)
 
 Welcome to my GitHub! I'm a passionate developer with a B.Sc. in Electrical Engineering, specializing in embedded systems and mobile applications. Currently, I'm a Junior Test Engineer at Luxoft, ensuring the quality of automotive and embedded solutions. Here, you'll find my projects and contributions in embedded development and Android apps.
 
