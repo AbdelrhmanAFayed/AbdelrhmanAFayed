@@ -19,7 +19,9 @@ I contributed to **Coda**, an AI-driven automotive system developed as the gradu
 ## 📊 GitHub Stats
 
 ![AbdelrhmanAFayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAFayed&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAFayed&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrhmanAFayed&theme=radical)
 
 ## 🛠️ Skills
